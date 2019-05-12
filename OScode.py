@@ -34,7 +34,7 @@ def greetMe():
 
 greetMe()
 
-speak('Hello Sir, I am your digital assistant the Lady Jarvis! - made by Arshbir Singh ')
+speak('Hello Sir, I am your digital assistant the Lady Jarvis! -   ')
 speak('How may I help you?')
 
 
